@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "name": "Coffee Delights",
+      "features": ["Free Wi-Fi", "Outdoor Seating", "Freshly Roasted Coffee"],
+      "img": "https://i.ibb.co/QdTxzjR/Coffee-Delights.jpg",
+      "price": 200,
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Espresso Haven",
+      "features": ["Espresso Bar", "Live Music", "Pastries"],
+      "img": "https://i.ibb.co/m5cpcbL/Espresso-Haven.jpg",
+      "price": 300,
+      "rating": 4.0
+    },
+    {
+      "id": 3,
+      "name": "Mocha Magic",
+      "features": ["Artisanal Coffee", "Homemade Desserts", "Cozy Atmosphere"],
+      "img": "https://i.ibb.co/DL8KVBC/Mocha-Magic.jpg",
+      "price": 100,
+      "rating": 4.8
+    },
+    {
+      "id": 4,
+      "name": "Café Noir",
+      "features": ["Organic Coffee", "Vegan Options", "Book Nook"],
+      "img": "https://i.ibb.co/1LbxyyW/Caf-Noir.jpg",
+      "price": 200,
+      "rating": 4.2
+    },
+    {
+      "id": 5,
+      "name": "Brewed Bliss",
+      "features": ["Cold Brews", "Brunch Menu", "Local Art"],
+      "img": "https://i.ibb.co/5B6hjyV/Brewed-Bliss.jpg",
+      "price": 200,
+      "rating": 4.6
+    }
+  ]
+  
